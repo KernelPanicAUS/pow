@@ -10,7 +10,7 @@
 , "main": "./lib/index.js"
 , "dependencies": {
     "async": "0.1.22"
-  , "connect": "~> 1.8.0"
+  , "connect": "~> 3.7.0"
   , "log": ">= 1.1.1"
   , "nack": "~> 0.15"
   , "request": "~> 2.16"
